@@ -1,0 +1,101 @@
+,series,genero,votos,inicio,fim
+0,Breaking Bad,"['Crime', 'Drama', 'Thriller']","1,289,296",2008,2013
+1,Game of Thrones,"['Action', 'Adventure', 'Drama']","1,614,914",2011,2019
+2,Friends,"['Comedy', 'Romance']","722,129",1994,2004
+3,Família Soprano,"['Crime', 'Drama']","265,983",1999,2007
+4,Anos Incríveis,"['Comedy', 'Drama', 'Family']","32,406",1988,1993
+5,Seinfeld,['Comedy'],"234,181",1989,1998
+6,House of Cards,['Drama'],"441,519",2013,2018
+7,Lost,"['Adventure', 'Drama', 'Fantasy']","466,191",2004,2010
+8,Westworld,"['Drama', 'Mystery', 'Sci-Fi']","368,756",2016,presente
+9,Stranger Things,"['Drama', 'Fantasy', 'Horror']","686,614",2016,presente
+10,Arquivo X,"['Crime', 'Drama', 'Mystery']","187,592",1993,2018
+11,Better Call Saul,"['Crime', 'Drama']","264,731",2015,presente
+12,Narcos,"['Biography', 'Crime', 'Drama']","312,331",2015,2017
+13,Demolidor,"['Action', 'Crime', 'Drama']","339,624",2015,2018
+14,Uma Família da Pesada,"['Animation', 'Comedy']","290,182",1999,presente
+15,Os Simpsons,"['Animation', 'Comedy']","343,262",1989,presente
+16,A Escuta,"['Crime', 'Drama', 'Thriller']","256,746",2002,2008
+17,Roma,"['Action', 'Drama', 'History']","145,115",2005,2007
+18,Rick e Morty,"['Animation', 'Adventure', 'Comedy']","307,551",2013,presente
+19,Homeland,"['Crime', 'Drama', 'Mystery']","285,697",2011,presente
+20,Vikings,"['Action', 'Adventure', 'Drama']","363,280",2013,presente
+21,O Justiceiro,"['Action', 'Adventure', 'Crime']","160,553",2017,2019
+22,The Boys,"['Action', 'Comedy', 'Crime']","112,799",2019,presente
+23,Os 13 Porquês,"['Drama', 'Mystery']","229,102",2017,presente
+24,24 Horas,"['Action', 'Crime', 'Drama']","165,185",2001,2010
+25,Dois Homens e Meio,"['Comedy', 'Romance']","230,472",2003,2015
+26,X-Men,"['Animation', 'Action', 'Family']","35,102",1992,1997
+27,Fargo,"['Crime', 'Drama', 'Thriller']","287,878",2014,presente
+28,American Crime Story,"['Biography', 'Crime', 'Drama']","71,642",2016,presente
+29,Dexter,"['Crime', 'Drama', 'Mystery']","611,488",2006,2013
+30,The Walking Dead,"['Drama', 'Horror', 'Thriller']","809,224",2010,presente
+31,MacGyver - Profissão: Perigo,"['Action', 'Adventure', 'Crime']","33,534",1985,1992
+32,O Conto da Aia,"['Drama', 'Sci-Fi', 'Thriller']","142,743",2017,presente
+33,Sense8,"['Drama', 'Mystery', 'Sci-Fi']","128,153",2015,2018
+34,True Detective,"['Crime', 'Drama', 'Mystery']","460,433",2014,presente
+35,The Umbrella Academy,"['Action', 'Adventure', 'Comedy']","87,977",2019,presente
+36,Mr. Robot: Sociedade Hacker,"['Crime', 'Drama', 'Thriller']","295,167",2015,presente
+37,Boardwalk Empire: O Império do Contrabando,"['Crime', 'Drama', 'History']","163,345",2010,2014
+38,Jornada nas Estrelas: A Nova Geração,"['Action', 'Adventure', 'Mystery']","90,523",1987,1994
+39,"Scooby-Doo, Cadê Você?","['Animation', 'Short', 'Adventure']","27,603",1969,1970
+40,Prison Break,"['Action', 'Crime', 'Drama']","441,065",2005,2017
+41,Taboo,"['Drama', 'Mystery', 'Thriller']","105,667",2017,presente
+42,Dr. House,"['Drama', 'Mystery']","387,724",2004,2012
+43,Plantão Médico,"['Drama', 'Romance']","47,294",1994,2009
+44,Big Bang: A Teoria,"['Comedy', 'Romance']","672,389",2007,2019
+45,South Park,"['Animation', 'Comedy']","312,260",1997,presente
+46,Buffy: A Caça-Vampiros,"['Action', 'Drama', 'Fantasy']","121,064",1997,2003
+47,Beavis and Butt-Head,"['Animation', 'Comedy', 'Music']","26,112",1993,2011
+48,Jessica Jones,"['Action', 'Crime', 'Drama']","182,338",2015,2019
+49,Big Little Lies,"['Crime', 'Drama', 'Mystery']","128,250",2017,presente
+50,Oz,"['Crime', 'Drama', 'Thriller']","83,596",1997,2003
+51,The Strain,"['Drama', 'Horror', 'Thriller']","72,653",2014,2017
+52,Vida de Escritório,['Comedy'],"326,270",2005,2013
+53,Raymond e Companhia,['Comedy'],"59,813",1996,2005
+54,Lei & Ordem: Unidade de Vítimas Especiais,"['Crime', 'Drama', 'Mystery']","72,330",1999,presente
+55,Legião,"['Action', 'Drama', 'Sci-Fi']","76,815",2017,2019
+56,Black Mirror,"['Drama', 'Sci-Fi', 'Thriller']","367,021",2011,presente
+57,CSI: Investigação Criminal,"['Crime', 'Drama', 'Mystery']","74,318",2000,2015
+58,American Dad!,"['Animation', 'Comedy']","110,111",2005,presente
+59,Deadwood,"['Crime', 'Drama', 'History']","87,986",2004,2006
+60,Ally McBeal: Minha Vida de Solteira,"['Comedy', 'Drama', 'Fantasy']","28,538",1997,2002
+61,Frasier,['Comedy'],"68,855",1993,2004
+62,That '70s Show,"['Comedy', 'Romance']","144,269",1998,2006
+63,Mad Men: Inventando Verdades,['Drama'],"188,022",2007,2015
+64,Os Flintstones,"['Animation', 'Short', 'Adventure']","30,642",1960,1966
+65,História de Horror Americana,"['Drama', 'Horror', 'Thriller']","259,671",2011,presente
+66,S.O.S. Malibu,"['Action', 'Adventure', 'Crime']","23,360",1989,2001
+67,Heróis,"['Drama', 'Fantasy', 'Sci-Fi']","221,588",2006,2010
+68,The Following,"['Crime', 'Drama', 'Horror']","81,532",2013,2015
+69,Futurama,"['Animation', 'Comedy', 'Sci-Fi']","202,092",1999,2013
+70,Penny Dreadful,"['Drama', 'Fantasy', 'Horror']","104,030",2014,2016
+71,Agentes da S.H.I.E.L.D. da Marvel,"['Action', 'Adventure', 'Drama']","187,995",2013,presente
+72,Spartacus,"['Action', 'Adventure', 'Biography']","210,449",2010,2013
+73,Sobrenatural,"['Drama', 'Fantasy', 'Horror']","363,421",2005,presente
+74,Como Eu Conheci Sua Mãe,"['Comedy', 'Romance']","558,172",2005,2014
+75,Arqueiro,"['Action', 'Adventure', 'Crime']","390,301",2012,presente
+76,Barrados no Baile,"['Drama', 'Romance']","29,605",1990,2000
+77,Gotham,"['Action', 'Crime', 'Drama']","201,730",2014,2019
+78,Altered Carbon,"['Action', 'Drama', 'Sci-Fi']","112,601",2018,presente
+79,La Casa de Papel,"['Action', 'Crime', 'Mystery']","178,274",2017,presente
+80,The Gifted,"['Action', 'Drama', 'Fantasy']","28,616",2017,2019
+81,Fronteiras,"['Drama', 'Mystery', 'Sci-Fi']","210,333",2008,2013
+82,True Blood,"['Drama', 'Fantasy', 'Mystery']","221,717",2008,2014
+83,Família Moderna,"['Comedy', 'Drama', 'Romance']","320,043",2009,presente
+84,Bob's Burgers,"['Animation', 'Comedy']","58,902",2011,presente
+85,Caindo na Real,['Comedy'],"262,037",2003,presente
+86,Ozark,"['Crime', 'Drama', 'Thriller']","117,641",2017,presente
+87,Luke Cage,"['Action', 'Crime', 'Drama']","108,923",2016,2018
+88,Filhos da Anarquia,"['Crime', 'Drama', 'Thriller']","237,459",2008,2014
+89,Bob Esponja Calça Quadrada,"['Animation', 'Comedy', 'Family']","76,679",1999,presente
+90,Fugitivos da Marvel,"['Action', 'Drama', 'Sci-Fi']","18,572",2017,2019
+91,Um Maluco no Pedaço,['Comedy'],"111,878",1990,1996
+92,Alias: Codinome Perigo,"['Action', 'Drama', 'Mystery']","42,953",2001,presente
+93,Contos da Cripta,"['Comedy', 'Crime', 'Fantasy']","19,974",1989,1996
+94,Orange Is the New Black,"['Comedy', 'Crime', 'Drama']","267,384",2013,2019
+95,O Mentalista,"['Crime', 'Drama', 'Mystery']","155,650",2008,2015
+96,Stargate SG-1,"['Action', 'Adventure', 'Drama']","79,241",1997,2007
+97,Thundercats,"['Animation', 'Action', 'Adventure']","15,011",1985,1989
+98,Um Maluco na TV,['Comedy'],"106,273",2006,2013
+99,Hannibal,"['Crime', 'Drama', 'Horror']","208,888",2013,2015
